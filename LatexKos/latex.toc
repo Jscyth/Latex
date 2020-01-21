@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}rozdziały}{3}%
+\contentsline {subsection}{\numberline {1.1}podrozdziały}{3}%
+\contentsline {subsection}{\numberline {1.2}nawet więcej podrozdziałów}{3}%
+\contentsline {section}{\numberline {2}tabele}{4}%
+\contentsline {section}{\numberline {3}wzory matematyczne}{4}%
+\contentsline {section}{\numberline {4}obrazek}{5}%
+\contentsline {section}{\numberline {5}spisy}{6}%
